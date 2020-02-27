@@ -76,9 +76,9 @@
 <p>上記の内容がよろしければ登録するを押してください</p>
 <a href="final.html" class="btn-square3">登録する！</a><br>
 <br>
-<a href="input_form.html" class="btn-square2">入力画面に戻る</a><br>  
+<a href="input_form.php" class="btn-square2">入力画面に戻る</a><br>  
 <br>
-<a href="front.html"class="btn-square">ホームに戻る</a><br>
+<a href="index.html"class="btn-square">ホームに戻る</a><br>
 </form>
 </body>
 </html>
